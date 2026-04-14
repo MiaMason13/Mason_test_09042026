@@ -1,5 +1,10 @@
 # Mason_test_09042026
-Test repository class 4/9/2026
-# what is happening
-is this even going to work
-remove a paretheses
+This repo is a test to help learn how to navigate GitHub
+
+The data comes from somewhere over the rainbow
+
+The current plan is to understand GitHub
+
+The repo only has a README file rn
+
+My contact information is ur mom
